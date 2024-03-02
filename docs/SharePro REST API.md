@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
- **SharePro** publishes a rich set of REST API endpoints exposing many functionalities of the system - including providing JSON data for reports, checking PANs, inserting Trading and DP Clients, Recording Receipts from Clients. etc. The API can be consumed by inhouse systems, third-party Trading applications or Cellphone Apps to integrate SharePro into themselves....
+ **SharePro** publishes a rich set of REST API endpoints exposing many functionalities of the system - including providing JSON data for reports, checking PANs, inserting Trading and DP Clients, Recording Receipts from Clients. etc. The API can be consumed by inhouse systems, third-party Trading applications or Cellphone Apps to integrate SharePro into themselves.
 
 [***<u>Check Demo using SharePro REST API Tracker</u>***](http://www.cloud.stansoftware.com:81/shrdbms/dotnet/StanSoftAPI/RestAPITracker.aspx)
 

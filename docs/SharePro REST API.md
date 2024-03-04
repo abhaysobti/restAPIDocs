@@ -13,3 +13,4 @@ sidebar_position: 1
 ![Alt text](slogo-small-1.jpg)
 
 **Standard Software (P) Limited**<br/>699F, Block “P”, New Alipore,<br/>Kolkata - 700 053<br/>Near New Alipore Childrens’ Park<br/>www.stansoftware.com 
+

@@ -66,17 +66,13 @@ const config = {
       // Replace with your project's social card
       image: 'img/sharepro.png',
       navbar: {
-        title: 'Home',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/sharepro.png',
-        },
+
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left', 
-            label: 'SharePro RestAPI',
+            label: 'RestAPI Documentation',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           // {

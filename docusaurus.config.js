@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'StanSoft', // Usually your GitHub org/user name.
+  organizationName: 'abhaysobti', // Usually your GitHub org/user name.
   projectName: 'restAPI', // Usually your repo name.
 
   onBrokenLinks: 'throw',

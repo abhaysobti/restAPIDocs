@@ -66,6 +66,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/sharepro.png',
       navbar: {
+        title: 'Home',
+        logo: {
+          alt: 'My site Logo',
+          src: 'img/sharepro.png',
+        },
 
         items: [
           {
